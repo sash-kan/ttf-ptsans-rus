@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Wed, 20 Jan 2010 12:48:23 +0300
+Source: ttf-ptsans-rus
+Binary: ttf-ptsans-rus
+Architecture: source i386
+Version: 0.0.20100113-1
+Distribution: unstable
+Urgency: low
+Maintainer: alexander barakin (aka sash-kan) <alex.barakin@gmail.com>
+Changed-By: alexander barakin (aka sash-kan) <alex.barakin@gmail.com>
+Description: 
+ ttf-ptsans-rus - Public fonts for minority languages of Russia
+Changes: 
+ ttf-ptsans-rus (0.0.20100113-1) unstable; urgency=low
+ .
+   * Initial release
+Checksums-Sha1: 
+ 26843f78e4564528777207ee87c5b39dc298cdb0 861 ttf-ptsans-rus_0.0.20100113-1.dsc
+ 35ba990313c7bd7f2928ac628d30f3267293cebf 1754874 ttf-ptsans-rus_0.0.20100113-1.tar.gz
+ 058a843dc2bb46c18ac8f72ade879745d8e5c1c1 1724618 ttf-ptsans-rus_0.0.20100113-1_i386.deb
+Checksums-Sha256: 
+ e3b707f44af6bb81301ba9588f02baeb5d23e6cb1d0cf27b5c5591d083bd9178 861 ttf-ptsans-rus_0.0.20100113-1.dsc
+ af01535393c040783e1c0ecaa25c6219e354ca4cf0bb05a62dc3671c979c0ee2 1754874 ttf-ptsans-rus_0.0.20100113-1.tar.gz
+ b48d0b6d0ddfb34c00b9f7b001b4faea746fdaccea6325baee7ad4189328746e 1724618 ttf-ptsans-rus_0.0.20100113-1_i386.deb
+Files: 
+ 6aa2d962be0ddcfc2d621be54cd8fb64 861 x11 optional ttf-ptsans-rus_0.0.20100113-1.dsc
+ 621e6795b67df30df106f02e0694db15 1754874 x11 optional ttf-ptsans-rus_0.0.20100113-1.tar.gz
+ 7067973857a0c574527860b43a7e10a5 1724618 x11 optional ttf-ptsans-rus_0.0.20100113-1_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (GNU/Linux)
+
+iEYEARECAAYFAktXK8YACgkQW/Dr9isfAcBk3gCffWPArBb8TU4oAnEIFB28fjif
+j+EAnReoE2mntLkTFcgjntzm2FCvVwlO
+=GmrE
+-----END PGP SIGNATURE-----
